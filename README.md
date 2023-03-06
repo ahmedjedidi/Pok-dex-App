@@ -7,4 +7,4 @@ MVVM Pokédex App with Jetpack Compose
 -UI integration using Jetpack Compose <br/>
 -Using MVVM Architecture (Model View View Model) <br/>
 -Coil for loading images asynchronously <br/>
--Routing for navigation compose <br/>
+-Routing using navigation compose <br/>
